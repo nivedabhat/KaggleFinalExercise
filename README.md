@@ -1,2 +1,2 @@
-# KaglleFinalExercise
+# KaggleFinalExercise
 Exercise: Final Project
